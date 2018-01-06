@@ -5,5 +5,5 @@ setup(
         version = "0.1",
         description = "Learn flask",
         packages = find_packages(),
-        install_requires = ["gunicorn","flask"],
+        install_requires = ["flask", "feedparser"],
         )
